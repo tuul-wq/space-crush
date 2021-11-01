@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 964640e805d544e399b96ff17eae98fe, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  deathSfx: {fileID: 8300000, guid: bf121aff66f4f4861912628e5bb30de8, type: 3}
+  hitSfx: {fileID: 8300000, guid: 2943780cfe25a42889c6b0a7504563d8, type: 3}
+  deathSfxVolume: 1
+  hitSfxVolume: 1
+  deathVFX: {fileID: 8490779868767159741, guid: 7ad53dcd621de4ab3a64ae240fa5769d, type: 3}
+  hitVFX: {fileID: 2481028890337424149, guid: d12a9df03f6df47f6b600b13c70b237a, type: 3}
+  health: {fileID: 11400000, guid: ffda46d53f0b0458f841449c3ad40ee7, type: 2}

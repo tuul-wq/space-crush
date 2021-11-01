@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 733e67342240429487b789486febedc8, type: 3}
+  m_Name: BrownFlyer
+  m_EditorClassIdentifier: 
+  deathSfx: {fileID: 8300000, guid: 2a61217b9b464456097a6779debfad5b, type: 3}
+  hitSfx: {fileID: 8300000, guid: 2943780cfe25a42889c6b0a7504563d8, type: 3}
+  deathSfxVolume: 0.75
+  hitSfxVolume: 0.75
+  deathVFX: {fileID: 8490779868767159741, guid: 7ad53dcd621de4ab3a64ae240fa5769d, type: 3}
+  hitVFX: {fileID: 2481028890337424149, guid: d12a9df03f6df47f6b600b13c70b237a, type: 3}
+  initialHealth: 100
+  shootTimerMin: 0.6
+  shootTimerMax: 1
+  scoreValue: {fileID: 11400000, guid: 77c6278755ba448d582b53584548fb44, type: 2}
+  attackSfx: {fileID: 8300000, guid: bb99317cda6e84d97a8f5c97ec667c4e, type: 3}
+  attackSfxVolume: 0.5

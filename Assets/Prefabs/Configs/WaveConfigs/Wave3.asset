@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 678e58ef7c6544c8ac6879b5b9a27e23, type: 3}
+  m_Name: Wave3
+  m_EditorClassIdentifier: 
+  waveConfig:
+  - {fileID: 11400000, guid: a6b98d099e8c14d0da286ecac9cf735f, type: 2}
+  boosters:
+  - {fileID: 1689346435728889963, guid: a8c82aef92800400e911507cd739b966, type: 3}
+  isBoosterMandatory: 1
+  boostersDropAmount: 1
